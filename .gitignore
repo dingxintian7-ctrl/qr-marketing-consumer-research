@@ -1,0 +1,9 @@
+# Generated synthetic data and analysis artifacts
+data/*.csv
+outputs/*.csv
+outputs/*.txt
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
